@@ -1,7 +1,6 @@
 # Celery + Django + Docker
 
 
-# Описание
+# Description
 
-Проект демонстрирует работу распределённой очереди задач Celery 
-и приложения, написанного с помощью Django.
+The project demonstrates the Celery distributed task queue and an application written with Django.
